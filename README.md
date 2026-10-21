@@ -1,5 +1,5 @@
 # Hi there, I'm Priyanshu Sharma! 👋
-### 🌌 Frontend Engineer & Binary Alchemist (priyanshu-void)
+### 🌌 Frontend Engineer & Binary Alchemist (script-architect)
 
 ```text
 ========================================================================
@@ -24,13 +24,13 @@ I am a highly driven Software Developer specialized in building pixel-perfect, v
 
 <!-- DYNAMIC LIVE TECH STATS MATRIX -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-void&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Priyanshu's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-void&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Chart" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=script-architect&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Priyanshu's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-architect&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Chart" height="180px" />
 </p>
 
 <!-- CONTRIBUTION STREAK COUNTER -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-void&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-architect&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
