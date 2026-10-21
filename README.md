@@ -53,6 +53,8 @@ I am a highly driven Software Developer specialized in building pixel-perfect, v
 ---
 
 ## 🚀 Active Project Showcases
+- 💲 **[Monavel OS | Expense Management](https://monvael.vercel.app/)** - An Expense Management System that allows you to commit your daily expense and categorised them , and also you can download all your expenses list as Excel File you can share it with your tax consultant. and also you can do the action undo to reverse back the action and you can set alarm of your expense if your expense exceed the limit then it will give you alert.
+
 - 🌦️ **[Weather Flight Pro](https://weatherflight-pro.vercel.app/)** - An immersive, handcrafted state-of-the-art meteorological dashboard mapping live OpenWeather rain/snow precipitation radar layers natively over vector canvases with 0% scrollbar lag.
 
 ---
